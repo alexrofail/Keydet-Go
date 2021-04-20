@@ -1,0 +1,11 @@
+/* 
+  AppStrings.strings
+  KeydetGoo
+
+  Created by brian lipscomb on 1/23/18.
+  Copyright © 2018 codewithlips. All rights reserved.
+*/
+
+
+"Hi" = "Hello World!";
+

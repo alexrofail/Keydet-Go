@@ -1,0 +1,101 @@
+/* 
+  localizable.strings
+  KeydetGoo
+
+  Created by brian lipscomb on 1/23/18.
+  Copyright © 2018 codewithlips. All rights reserved.
+*/
+"Mallory Hall" = "VMI Mallory Hall is home to Computer Science, Physics, and Applied mathematics. This builiding contains advanced technology from advanced computers used for virtual reality to high tech lasers used by the physics department.";
+
+"Maury Brooke" = "Maury Brooke Hall, the VMI science building was originally constructed in 1989 and comprises 55,100 SF of floor space on four floors. Maury Brooke is home to the Biology and Chemistry departments, also available in Maury Brooke is VMI’s new Exercise Science minor available through the biology department. Maury Brooke comprises of four levels of classroom and laboratories, with a green house on the fifth floor.";
+
+"Preston" = "Named for Colonel J.T.L. Preston, the current library building was dedicated in 1939, enlarged in 1972, and renovated in 1996. The building is equipped with networked computers, wireless Internet access, a computer instruction lab, individual study carrels, group study tables, and group study rooms. Each floor also has a gallery area furnished with comfortable armchairs and sofas.";
+
+"Nichols" = "Nichols Engineering Building (NEB) houses the Civil, Mechanical, and Electrical and Computer Engineering majors. NEB is the oldest and most historic academic building on Post. Before VMI’s adoption of a liberal arts curriculum all cadets were required to choose between one of the engineering degrees, math or science. NEB is also the most diverse of the academic buildings, housing traditional classrooms, computer labs, and machine shops.";
+
+"JM Hall" = "Jackson Memorial Hall is VMI’s formal chapel. The main level consists of a small chapel that fits approximately 800 people, with an additional level of sitting for another 300 people. Underneath the chapel you will find the VMI Museum. From the mounted hide of 'Little Sorrel','Stonewall' Jackson's favorite horse, to seven Medals of Honor awarded to VMI alumni, the museum chronicles the story of the nation's first state sponsored military college.";
+
+"Cocke Hall" = "Completely renovated in 2016, Cocke Hall is where Keydets go to get fit. Cocke Hall is home to four half-court basketball courts on the main level, as well as an upper track and two cardio rooms on the top level. Below the basketball court you will find state of the art locker rooms, on the next floor down is a newly renovated state of the art weight room. On the bottom floor is the swimming pool and powerlifting room.";
+
+"Crozet Hall" = "Fueled by Park Hurst Dining. Crozet Hall is where cadets go at least three times daily for nourishment. Crozet Hall consists of three floors of eating space, supported by a buffet style of dining that is open from 0630-2100 on the weekdays.";
+
+"Old Barracks" = "The first and original barracks on Post at VMI houses approximately 35% of the corps today. With the famous Jackson Arch as the doorway to barracks, old barracks is the “face” of the institute and the most traditional and history rich building on Post. ";
+"New Barracks" = "Completed in 1949, New Barracks was the next addition to VMI in terms of living quarters. New Barracks is the smallest of the three barracks on Post today, housing approximately 25% of the corps of cadets.";
+"Third Barracks" = "From 2006-2009 Third Barracks was constructed where Lejeune Hall once stood.  In addition to increasing the available number of cadet rooms, the new wing incorporates a Visitor’s Center, the bookstore, and the Keydet Canteen.";
+
+"Shell Hall" = "Shell Hall is home to VMI’s famous and unique Honor Court, as well as the Registrar’s office and the VMI band rooms where the band practices and stores their equipment.";
+
+"Carroll Hall" = "Carroll Hall is the home to the psychology as well as leadership studies departments. Carroll Hall also houses VMI’s unique writing center where cadets can go at virtually any time of day to receive assistance on class assigned papers and even resumes. Additionally athletic team study is housed in Carroll Hall. ";
+
+"Post Hospital" = "Post Hospital is VMI’s infirmary. Open 24 hours per day seven days per week cadets can report to Post Hospital for any health and wellness needs necessary.";
+
+"Kilbourne Hall" = "Kilbourn Hall is host to VMI’s famous ROTC departments: Army Navy, Marine Corps, and Air Force ROTC are all available at VMI. Regardless of commissioning status, cadets must take an ROTC class for each semester they are at VMI. ";
+
+"Foster Stadium" = "Foster Stadium is one of the few Division I football schools with a stadium lacking lighting of any kind. Foster Stadium, home to Alumni Memorial Field is one of the most unique football game experiences in the country. Each Saturday in the fall months at 1300hrs the stadium fills with cadets and families to cheer on the Keydets. ";
+
+"Cormack" = "Newly renovated Cormack Hall is home to the VMI physical education department, VMI varsity wrestling team, and a state of the art weight room and wrestling arena. ";
+
+"Parade Field" = "VMI’s legendary parade field has been hosting parades for the entirety of VMI’s existence. Through all the changes over the years the one complete constant at VMI is the tradition of parade. VMI hosts upwards of 50 parades each academic year, concluding in May with the New Market Parade, honoring the cadets who died in the battle of New Market. ";
+
+"Cameron Hall" = "Cameron Hall is the official basketball arena for VMI Keydets basketball. Cameron Hall is also home to the varsity athletic training facilities. In addition to basketball games, Cameron Hall also hosts an array of events such as graduation, commissioning ceremonies, guest speakers, and ring figure presentation.";
+
+"Scott Shipp Hall" = "Scott Shipp Hall was originally built in 1918 and contains 66,480sf on five floors. Scott Shipp is home to the English, Economics and Business, Foreign Languages, and History departments. This building received extensive interior renovations to incorporate more functional, flexible spaces and a comprehensive new infrastructure to support contemporary, multimedia classrooms. Interior spaces were reconfigured and exterior renovation included insulated windows, upgrading roofing and improving site ";
+"CPT" = "The building is dual-purpose, as it is used for both track and field and general Corps of Cadets activities. The track is a hydraulic banked, 200-meter oval with two sprint straights and two long/triple jump and vault runways, located in the center of the oval. It is believed to be one of only six indoor tracks at the NCAA level with a 200-meter banked hydraulic oval, and one of only two (joining Liberty) with a Beynon-produced surface. There are also two high jump areas.";
+
+"CLE" = "The Center for Leadership and ethics or CLE is building that holds numerous keynotes, talks, plays, and lectures by guest speakers, VMI instructors, and many more. The hops and formals are held here as well as the well renown ring figure dance.";
+//Mallory
+"CIS" = "http://www.vmi.edu/academics/departments/computer-and-information-sciences/";
+"Physics" = "http://www.vmi.edu/academics/departments/physics-and-astronomy/";
+"Applied" = "http://www.vmi.edu/academics/departments/applied-mathematics/";
+
+//Maury Brooke
+"Biology" = "http://www.vmi.edu/academics/departments/biology/";
+"Chemistry" = "http://www.vmi.edu/academics/departments/chemistry/";
+
+//Nichols
+"Civil"= "http://www.vmi.edu/academics/departments/civil-and-environmental-engineering/";
+"EE" = "http://www.vmi.edu/academics/departments/electrical-and-computer-engineering/";
+"Mech" = "http://www.vmi.edu/academics/departments/mechanical-engineering/";
+
+//Scott Shipp
+"History" = "http://www.vmi.edu/academics/departments/history/";
+"Lang" = "http://www.vmi.edu/academics/departments/modern-languages-and-cultures/";
+"English" = "http://www.vmi.edu/academics/departments/english-rhetoric-and-humanistic-studies/";
+"Econ" = "http://www.vmi.edu/academics/departments/economics-and-business/";
+"IS" = "http://www.vmi.edu/academics/departments/international-studies-and-political-science/";
+
+//Carroll Hall
+"Psych" = "http://www.vmi.edu/academics/departments/psychology/";
+
+//Cocke Hall & Cormack hall
+"PE" = "http://www.vmi.edu/academics/departments/physical-education/";
+
+//Kilbourne
+"air"  = "http://www.vmi.edu/academics/departments/air-force-rotc/";
+"navy" = "http://www.vmi.edu/academics/departments/naval-rotc/";
+"Army" = "http://www.vmi.edu/academics/departments/army-rotc/";
+
+//Cameron
+"Basketball" = "http://www.vmikeydets.com/SportSelect.dbml?DB_OEM_ID=9800&SPID=3897&SPSID=43813&DB_OEM_ID=9800";
+
+//Foster
+"Football" = "http://www.vmikeydets.com/SportSelect.dbml?DB_OEM_ID=9800&SPID=3895&SPSID=43765&DB_OEM_ID=9800";
+
+//Preston
+"Lib" = "http://www.vmi.edu/academics/library/";
+
+//JAM Hall
+"Muse" = "http://www.vmi.edu/museums-and-archives/vmi-museum/";
+
+//Shell Hall
+"Registrar" = "http://www.vmi.edu/academics/dean/registrar/";
+"Band" = "http://www.vmi.edu/cadet-life/life-on-post/clubs-and-organizations/regimental-band/";
+"Auxilary" = "ww.vmi.edu/cadet-life/families/auxiliary-services/";
+
+
+
+
+
+
+
+
